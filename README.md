@@ -1,7 +1,14 @@
 👋 Hi, I’m Suresh Kumar Srivastava, Founder [CourseGalaxy]( http://coursegalaxy.com/) | Author of popular books [C in Depth]( https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487/), [Data Structures through C in depth]( https://www.amazon.in/Data-Structures-Through-C-Depth/dp/8176567418/) 350,000+ copies | Hard Core Techie | Loves doing Software Architecture, Design and Coding.
 
 You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
+
 <!---
+[![data-structures-algorithms-java](https://user-images.githubusercontent.com/96913690/200234744-14a5ed97-085f-44f3-9298-979c2053c580.jpg)](http://coursegalaxy.com/)
+[![data-structures-algorithms-python](https://user-images.githubusercontent.com/96913690/200234827-86aec10a-bfab-4371-91fc-e2be855ff1ff.jpg)](http://coursegalaxy.com/)
+[![data-structures-algorithms-c](https://user-images.githubusercontent.com/96913690/200234592-25d33957-0e9e-4cc0-b324-2a73325aca85.jpg)](http://coursegalaxy.com/)
+[![data-structures-algorithms-csharp](https://user-images.githubusercontent.com/96913690/200234905-67b85dfd-20c4-4f4b-afd2-e10d3568fff8.jpg)](http://coursegalaxy.com/)
+
+
 I am an Founder of CourseGalaxy.com and have written two books – [C in Depth]( https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487/),  [Data Structures through C in depth]( https://www.amazon.in/Data-Structures-Through-C-Depth/dp/8176567418/)
 
 You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
