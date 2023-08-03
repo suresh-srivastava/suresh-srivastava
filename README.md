@@ -2,13 +2,13 @@
 
 You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
 * [Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html) 
-* [Trees and Graphs Data Structures and Algorithms In C (DSA)](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-c.html)
+* [Trees and Graphs Data Structures and Algorithms In C](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-c.html)
 * [Data Structures and Algorithms In C#](http://coursegalaxy.com/course/data-structures-algorithms-csharp.html)
-* [Trees and Graphs Data Structures and Algorithms In C# (DSA)](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-csharp.html)
+* [Trees and Graphs Data Structures and Algorithms In C#](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-csharp.html)
 * [Data Structures and Algorithms In Java](http://coursegalaxy.com/course/data-structures-algorithms-java.html)
-* [Trees and Graphs Data Structures and Algorithms In Java (DSA)](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-java.html)
+* [Trees and Graphs Data Structures and Algorithms In Java](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-java.html)
 * [Data Structures and Algorithms In Python](http://coursegalaxy.com/course/data-structures-algorithms-python.html)
-* [Trees and Graphs Data Structures and Algorithms In Python (DSA)](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-python.html)
+* [Trees and Graphs Data Structures and Algorithms In Python](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-python.html)
 * [Data Structures and Algorithms In C++](http://coursegalaxy.com/course/data-structures-algorithms-c-plus-plus.html)
 
 
