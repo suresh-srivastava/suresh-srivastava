@@ -9,9 +9,14 @@ You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
 [![data-structures-algorithms-csharp](https://user-images.githubusercontent.com/96913690/200234905-67b85dfd-20c4-4f4b-afd2-e10d3568fff8.jpg)](http://coursegalaxy.com/)
 
 
-I am an Founder of CourseGalaxy.com and have written two books – [C in Depth]( https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487/),  [Data Structures through C in depth]( https://www.amazon.in/Data-Structures-Through-C-Depth/dp/8176567418/)
+I am an Founder of CourseGalaxy.com and have written two books – [C in Depth](https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487/),  [Data Structures through C in depth](https://www.amazon.in/Data-Structures-Through-C-Depth/dp/8176567418/)
 
-You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
+You can access our courses on [CourseGalaxy](http://coursegalaxy.com/) -
+[Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html)
+[Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c-plus-plus.html)
+[Data Structures and Algorithms In C#](http://coursegalaxy.com/course/data-structures-algorithms-csharp.html)
+[Data Structures and Algorithms In Java](http://coursegalaxy.com/course/data-structures-algorithms-java.html)
+[Data Structures and Algorithms In Python](http://coursegalaxy.com/course/data-structures-algorithms-python.html)
 
 
 - 👋 Hi, I’m @suresh-srivastava
