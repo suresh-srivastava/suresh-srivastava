@@ -1,6 +1,11 @@
 👋 Hi, I’m Suresh Kumar Srivastava, Founder [CourseGalaxy.com]( http://coursegalaxy.com/) | Author of popular books [C in Depth]( https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487/), [Data Structures through C in depth]( https://www.amazon.in/Data-Structures-Through-C-Depth/dp/8176567418/) 350,000+ copies | Hard Core Techie | Loves doing Software Architecture, Design and Coding.
 
 You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
+[Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html)
+[Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c-plus-plus.html)
+[Data Structures and Algorithms In C#](http://coursegalaxy.com/course/data-structures-algorithms-csharp.html)
+[Data Structures and Algorithms In Java](http://coursegalaxy.com/course/data-structures-algorithms-java.html)
+[Data Structures and Algorithms In Python](http://coursegalaxy.com/course/data-structures-algorithms-python.html)
 
 <!---
 [![data-structures-algorithms-java](https://user-images.githubusercontent.com/96913690/200234744-14a5ed97-085f-44f3-9298-979c2053c580.jpg)](http://coursegalaxy.com/)
