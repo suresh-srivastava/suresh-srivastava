@@ -2,6 +2,7 @@
 
 You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
 |Course|Course|
+|------|------|
 |[Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html)|
 [Trees and Graphs Data Structures and Algorithms In C (DSA)](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-c.html)|
 |[Data Structures and Algorithms In C#](http://coursegalaxy.com/course/data-structures-algorithms-csharp.html)|
