@@ -2,6 +2,15 @@
 
 You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
 * [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X) 
+* [Data Structures and Algorithms In Java (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=COURSEGALAXY50) 
+* [Data Structures and Algorithms In C# (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=COURSEGALAXY50)
+* [Data Structures and Algorithms In Python (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-python-masterclass?coupon=COURSEGALAXY50)
+* [Data Structures and Algorithms In C (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=COURSEGALAXY50)
+* [Data Structures and Algorithms In C++ (DSA)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-cpp-dsa?coupon=COURSEGALAXY50)
+* [Python Programming In Depth](https://coursegalaxy.newzenler.com/courses/python-programming?coupon=COURSEGALAXY50)
+* [GNU make and Makefile from Scratch](https://leanpub.com/gnu-make-makefile-scratch)
+
+<!---
 * [Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html) 
 * [Trees and Graphs Data Structures and Algorithms In C](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-c.html)
 * [Data Structures and Algorithms In C#](http://coursegalaxy.com/course/data-structures-algorithms-csharp.html)
@@ -13,7 +22,6 @@ You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
 * [Data Structures and Algorithms In C++](http://coursegalaxy.com/course/data-structures-algorithms-c-plus-plus.html)
 
 
-<!---
 [![data-structures-algorithms-java](https://user-images.githubusercontent.com/96913690/200234744-14a5ed97-085f-44f3-9298-979c2053c580.jpg)](http://coursegalaxy.com/)
 [![data-structures-algorithms-python](https://user-images.githubusercontent.com/96913690/200234827-86aec10a-bfab-4371-91fc-e2be855ff1ff.jpg)](http://coursegalaxy.com/)
 [![data-structures-algorithms-c](https://user-images.githubusercontent.com/96913690/200234592-25d33957-0e9e-4cc0-b324-2a73325aca85.jpg)](http://coursegalaxy.com/)
