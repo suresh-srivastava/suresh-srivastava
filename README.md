@@ -2,12 +2,12 @@
 
 You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
 * [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X) 
-* [Data Structures and Algorithms In Java (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=COURSEGALAXY50) 
-* [Data Structures and Algorithms In C# (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=COURSEGALAXY50)
-* [Data Structures and Algorithms In Python (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-python-masterclass?coupon=COURSEGALAXY50)
-* [Data Structures and Algorithms In C (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=COURSEGALAXY50)
-* [Data Structures and Algorithms In C++ (DSA)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-cpp-dsa?coupon=COURSEGALAXY50)
-* [Python Programming In Depth](https://coursegalaxy.newzenler.com/courses/python-programming?coupon=COURSEGALAXY50)
+* [Data Structures and Algorithms In Java (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50) 
+* [Data Structures and Algorithms In C# (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=GITHUB50)
+* [Data Structures and Algorithms In Python (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-python-masterclass?coupon=GITHUB50)
+* [Data Structures and Algorithms In C (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
+* [Data Structures and Algorithms In C++ (DSA)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-cpp-dsa?coupon=GITHUB50)
+* [Python Programming In Depth](https://coursegalaxy.newzenler.com/courses/python-programming?coupon=GITHUB50)
 * [GNU make and Makefile from Scratch](https://leanpub.com/gnu-make-makefile-scratch)
 
 <!---
