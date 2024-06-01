@@ -8,8 +8,8 @@ You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
 * [Data Structures and Algorithms In C (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
 * [Data Structures and Algorithms In C++ (DSA)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-cpp-dsa?coupon=GITHUB50)
 * [Python Programming In Depth](https://coursegalaxy.newzenler.com/courses/python-programming?coupon=GITHUB50)
-* [Exception Handling in Python](https://coursegalaxy.newzenler.com/courses/exception-handling-python?coupon=COURSEGALAXY50)
-* [Empower Yourself with Advanced C# Concepts](https://coursegalaxy.newzenler.com/courses/advanced-csharp-programming-concepts?coupon=COURSEGALAXY50)
+* [Exception Handling in Python](https://coursegalaxy.newzenler.com/courses/exception-handling-python?coupon=GITHUB50)
+* [Empower Yourself with Advanced C# Concepts](https://coursegalaxy.newzenler.com/courses/advanced-csharp-programming-concepts?coupon=GITHUB50)
 * [GNU make and Makefile from Scratch](https://leanpub.com/gnu-make-makefile-scratch)
 
 <!---
