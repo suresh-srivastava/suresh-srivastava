@@ -11,6 +11,8 @@ You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
 * [Exception Handling in Python](https://coursegalaxy.newzenler.com/courses/exception-handling-python?coupon=GITHUB50)
 * [Empower Yourself with Advanced C# Concepts](https://coursegalaxy.newzenler.com/courses/advanced-csharp-programming-concepts?coupon=GITHUB50)
 * [GNU make and Makefile from Scratch](https://leanpub.com/gnu-make-makefile-scratch)
+* [Data Structures and Algorithms (DSA) Roadmap](http://coursegalaxy.com/data-structures-algorithms/dsa-roadmap.html)
+* [Data Structures and Algorithms (DSA) Interview Questions](http://coursegalaxy.com/data-structures-algorithms/dsa-interview-questions.html)
 
 <!---
 * [Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html) 
