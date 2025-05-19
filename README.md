@@ -14,6 +14,7 @@ You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
 * [GNU make and Makefile from Scratch](https://leanpub.com/gnu-make-makefile-scratch)
 * [Data Structures and Algorithms (DSA) Roadmap](http://coursegalaxy.com/data-structures-algorithms/dsa-roadmap.html)
 * [Data Structures and Algorithms (DSA) Interview Questions](http://coursegalaxy.com/data-structures-algorithms/dsa-interview-questions.html)
+* [Data Structures and Algorithms (DSA) Topics](http://coursegalaxy.com/data-structures-algorithms/dsa-topics.html)
 
 <!---
 * [Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html) 
