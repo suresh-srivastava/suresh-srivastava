@@ -16,6 +16,7 @@ You can access our courses on [CourseGalaxy]( http://coursegalaxy.com/)
 * [Data Structures and Algorithms (DSA) Interview Questions](http://coursegalaxy.com/data-structures-algorithms/dsa-interview-questions.html)
 * [Data Structures and Algorithms (DSA) Topics](http://coursegalaxy.com/data-structures-algorithms/dsa-topics.html)
 * [Want To Become Compiler Expert](http://coursegalaxy.com/compilers/learn-design.html)
+* [Python Topics : Basic, Intermediate, Advanced](http://coursegalaxy.com/python/topics-basic-intermediate-advanced.html)
 
 <!---
 * [Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html) 
